@@ -1,5 +1,5 @@
 .container {
-  max-width: 600px;
+  max-width: 300px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -13,10 +13,13 @@ form {
 
 .form-group {
   margin-bottom: 20px;
+  width: 150px;
 }
 
 .btn-primary {
   background-color: #007bff;
+  color: #fff;
+  border: 1px solid transparent;
   border-color: #007bff;
 }
 
@@ -30,5 +33,5 @@ form {
 }
 
 .text-success {
-  color: #5cdc35;
+  color: #299d05;
 }

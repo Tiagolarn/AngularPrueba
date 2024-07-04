@@ -8,7 +8,7 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms'; // Importa 
 })
 export class AppComponent implements OnInit {
 
-  title = 'AppFormulario';
+  title = 'Ingresa tus datos';
 
   public formularioUsuario: FormGroup;
   public enviado = false;
